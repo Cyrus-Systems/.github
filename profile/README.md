@@ -1,1 +1,1 @@
-![Open Source at Cyrus-Systems](https://github.com/Cyrus-Systems/.github/images/logo.png) 
+![](https://github.com/Cyrus-Systems/.github/images/logo.png) 

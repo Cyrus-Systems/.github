@@ -1,1 +1,1 @@
-![](../images/logo.png)
+![Open Source at Cyrus-Systems](../images/logo.png)
